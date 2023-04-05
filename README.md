@@ -15,6 +15,10 @@ Created a Google Chrome extention where is allows users to keep track of their f
 1. Download the Github zip file to your computer.
 2. Open the zip file on your computer.
 3. Head to Google Chrome and look for the puzzle piece on the top right hand corner. That is the extentions tab.
+4. Click "Manage Extentions".
+5. On the top left hand corner, click "Load Unpacked".
+6. Select the file you saved it under and upload it.
+7. Now you have the Google extention under your extentions.
 ## License
 MIT License
 
