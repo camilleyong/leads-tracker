@@ -1,7 +1,7 @@
-# Chrome Extention Leads Tracker
+# Chrome Extension Leads Tracker
 
 ## Description
-Created a Google Chrome extention where is allows users to keep track of their favorite links. I have used Chrome API, Javascript, HTML, and CSS.
+Created a Google Chrome extension where is allows users to keep track of their favorite links. I have used Chrome API, Javascript, HTML, and CSS.
 
 ## Table of Contents 
 
@@ -14,11 +14,11 @@ Created a Google Chrome extention where is allows users to keep track of their f
 ## Installation
 1. Download the Github zip file to your computer.
 2. Open the zip file on your computer.
-3. Head to Google Chrome and look for the puzzle piece on the top right hand corner. That is the extentions tab.
-4. Click "Manage Extentions".
+3. Head to Google Chrome and look for the puzzle piece on the top right hand corner. That is the extensions tab.
+4. Click "Manage Extensions".
 5. On the top left hand corner, click "Load Unpacked".
 6. Select the file you saved it under and upload it.
-7. Now you have the Google extention under your extentions.
+7. Now you have the Google extension under your extensions.
 ## License
 MIT License
 
