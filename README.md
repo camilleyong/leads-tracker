@@ -43,7 +43,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Deployed Link
-https://camilleyong.github.io/portfolio/
+https://camilleyong.github.io/leads-tracker/
 
 ## GitHub Repository
 https://github.com/camilleyong/leads-tracker
